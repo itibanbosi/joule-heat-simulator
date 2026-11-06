@@ -33,3 +33,9 @@ MIT License — Copyright (c) 2026 itibanbosi.
 右上の「表示言語 / Language」で日本語と英語を切り替えます。初期表示は日本語です。切り替えても比較条件や再生状態は変わりません。詳しい説明は画面下の「図の見方・説明」から開けます。PCでは画面の高さに合わせて図を調整し、狭い画面では読みやすさを保ってスクロールできます。
 
 Use the language selector at the top right to switch between Japanese and English. All controls, diagram labels and explanations are translated. Current settings and playback state are preserved. Choose constant current or constant voltage, then adjust the lower resistance and current/voltage sliders. Heating power is P = I²R; under constant voltage, P = V²/R. Open “How to read this model” for details. MIT licensed.
+
+## 実際のジュール熱との違い
+
+実際のジュール熱の仕組みは、このアニメーションとは異なります。金属では、電場によって電子がエネルギーを受け取り、格子の振動などとの相互作用を通して、そのエネルギーが物質に伝わって熱になります。電子が図の障害物にぶつかり、摩擦で熱を出すという仕組みではありません。障害物・○の動き・赤い光は、抵抗・電流・発熱の関係を理解するための模式表現です。実際の電子の速さ・衝突回数・温度を再現していません。
+
+Actual Joule heating works differently from this animation. In a metal, electrons gain energy from the electric field and transfer it to the material through interactions with lattice vibrations and other scattering processes. Heat is not produced by electrons rubbing against the pictured obstacles. The obstacles, moving circles and red flashes are schematic representations of resistance, current and heating power. They do not reproduce actual electron speeds, collision counts or temperatures.
