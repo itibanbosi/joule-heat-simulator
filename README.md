@@ -27,3 +27,9 @@
 
 MIT License — Copyright (c) 2026 itibanbosi.
 改変・再配布・商用利用ができます。配布時は著作権表示とLICENSE全文を含めてください。
+
+## 日本語・English
+
+右上の「表示言語 / Language」で日本語と英語を切り替えます。初期表示は日本語です。切り替えても比較条件や再生状態は変わりません。詳しい説明は画面下の「図の見方・説明」から開けます。PCでは画面の高さに合わせて図を調整し、狭い画面では読みやすさを保ってスクロールできます。
+
+Use the language selector at the top right to switch between Japanese and English. All controls, diagram labels and explanations are translated. Current settings and playback state are preserved. Choose constant current or constant voltage, then adjust the lower resistance and current/voltage sliders. Heating power is P = I²R; under constant voltage, P = V²/R. Open “How to read this model” for details. MIT licensed.
