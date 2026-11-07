@@ -39,3 +39,9 @@ Use the language selector at the top right to switch between Japanese and Englis
 実際のジュール熱の仕組みは、このアニメーションとは異なります。金属では、電場によって電子がエネルギーを受け取り、格子の振動などとの相互作用を通して、そのエネルギーが物質に伝わって熱になります。電子が図の障害物にぶつかり、摩擦で熱を出すという仕組みではありません。障害物・○の動き・赤い光は、抵抗・電流・発熱の関係を理解するための模式表現です。実際の電子の速さ・衝突回数・温度を再現していません。
 
 Actual Joule heating works differently from this animation. In a metal, electrons gain energy from the electric field and transfer it to the material through interactions with lattice vibrations and other scattering processes. Heat is not produced by electrons rubbing against the pictured obstacles. The obstacles, moving circles and red flashes are schematic representations of resistance, current and heating power. They do not reproduce actual electron speeds, collision counts or temperatures.
+
+## 障害物で跳ねる表現
+
+跳ねる動きは「進みにくさ」を示す演出です。横方向の速さは変えず、定電流では上下で同じ数の○が通過します。
+
+The bounce illustrates resistance to motion. It does not change horizontal speed, so equal numbers of circles pass in both lanes under constant current.
